@@ -17,5 +17,6 @@ public class Var8 {
         float f = 10.0f; //소수점 오류가 발생함으로 실무에서 사용하는 경우가 많이 없다. -> double 사용
         double d  = 10.0;
 
+
     }
 }
